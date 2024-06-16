@@ -1,0 +1,139 @@
+DataSet/FaceData/processed\Tuan\Tuan_18.0.png 485 1074 1812 2820
+DataSet/FaceData/processed\Tuan\Tuan_19.0.png 569 1159 1814 2782
+DataSet/FaceData/processed\Tuan\Tuan_20.0.png 549 1141 1853 2839
+DataSet/FaceData/processed\Tuan\Tuan_21.0.png 509 1055 1853 2775
+DataSet/FaceData/processed\Tuan\Tuan_22.0.png 383 1006 1706 2654
+DataSet/FaceData/processed\Tuan\Tuan_23.0.png 410 1007 1693 2648
+DataSet/FaceData/processed\Tuan\Tuan_24.0.png 627 1097 1840 2580
+DataSet/FaceData/processed\Tuan\Tuan_25.0.png
+DataSet/FaceData/processed\Tuan\Tuan_26.0.png
+DataSet/FaceData/processed\Tuan\Tuan_27.0.png
+DataSet/FaceData/processed\Tuan\Tuan_28.0.png
+DataSet/FaceData/processed\Tuan\Tuan_29.0.png
+DataSet/FaceData/processed\Tuan\Tuan_30.0.png 255 914 1894 3007
+DataSet/FaceData/processed\Tuan\Tuan_31.0.png 102 1047 1642 2996
+DataSet/FaceData/processed\Tuan\Tuan_32.0.png 411 1209 1719 2867
+DataSet/FaceData/processed\Tuan\Tuan_33.0.png 501 1140 1753 2690
+DataSet/FaceData/processed\Tuan\Tuan_34.0.png 555 1116 1809 2680
+DataSet/FaceData/processed\Tuan\Tuan_35.0.png 624 1105 1964 2802
+DataSet/FaceData/processed\Tuan\Tuan_36.0.png 692 1138 2002 2880
+DataSet/FaceData/processed\Tuan\Tuan_37.0.png 694 1079 2096 2910
+DataSet/FaceData/processed\Tuan\Tuan_38.0.png 674 1090 2081 2954
+DataSet/FaceData/processed\Tuan\Tuan_39.0.png 524 1106 1974 3010
+DataSet/FaceData/processed\Tuan\Tuan_40.0.png 415 1248 1668 2857
+DataSet/FaceData/processed\Tuan\Tuan_41.0.png 551 1328 1601 2633
+DataSet/FaceData/processed\Tuan\Tuan_42.0.png 661 1310 1688 2554
+DataSet/FaceData/processed\Tuan\Tuan_43.0.png 790 1336 1873 2670
+DataSet/FaceData/processed\Tuan\Tuan_44.0.png 728 1238 1867 2738
+DataSet/FaceData/processed\Tuan\Tuan_45.0.png 664 1237 1843 2784
+DataSet/FaceData/processed\Tuan\Tuan_46.0.png 582 1135 1826 2747
+DataSet/FaceData/processed\Tuan\Tuan_47.0.png 553 1093 1780 2710
+DataSet/FaceData/processed\Tuan\Tuan_48.0.png 501 1101 1741 2701
+DataSet/FaceData/processed\Tuan\Tuan_49.0.png 0 1040 1294 2686
+DataSet/FaceData/processed\Tuan\Tuan_50.0.png
+DataSet/FaceData/processed\Tuan\Tuan_51.0.png
+DataSet/FaceData/processed\Tuan\Tuan_52.0.png 242 964 1582 2427
+DataSet/FaceData/processed\Tuan\Tuan_58.0.png 888 1032 1925 2306
+DataSet/FaceData/processed\Tuan\Tuan_59.0.png 671 1102 1707 2217
+DataSet/FaceData/processed\Tuan\Tuan_60.0.png 372 1065 1429 2294
+DataSet/FaceData/processed\Tuan\Tuan_64.0.png 472 1326 1800 3062
+DataSet/FaceData/processed\Tuan\Tuan_65.0.png 339 1356 1765 3084
+DataSet/FaceData/processed\Tuan\Tuan_66.0.png 348 1242 1731 2986
+DataSet/FaceData/processed\Tuan\Tuan_70.0.png 485 1155 1806 2764
+DataSet/FaceData/processed\Tuan\Tuan_71.0.png 277 897 1576 2560
+DataSet/FaceData/processed\Tuan\Tuan_72.0.png 372 764 1786 2579
+DataSet/FaceData/processed\Tuan\Tuan_80.0.png
+DataSet/FaceData/processed\Tuan\Tuan_81.0.png
+DataSet/FaceData/processed\Tuan\Tuan_82.0.png
+DataSet/FaceData/processed\Tuan\Tuan_83.0.png
+DataSet/FaceData/processed\Tuan\Tuan_87.0.png
+DataSet/FaceData/processed\Tuan\Tuan_88.0.png
+DataSet/FaceData/processed\Nguyen\Nguyen_10.0.png
+DataSet/FaceData/processed\elonmusk\elon7.png 257 49 579 478
+DataSet/FaceData/processed\elonmusk\elon13.png 586 161 996 722
+DataSet/FaceData/processed\elonmusk\elon2.png 134 22 214 120
+DataSet/FaceData/processed\elonmusk\elon11.png 93 10 214 169
+DataSet/FaceData/processed\elonmusk\elon1.png 38 19 154 164
+DataSet/FaceData/processed\elonmusk\elon4.png 85 7 190 144
+DataSet/FaceData/processed\elonmusk\elon14.png 566 117 1107 818
+DataSet/FaceData/processed\elonmusk\elon5.png 79 5 155 93
+DataSet/FaceData/processed\elonmusk\elon9.png 231 90 426 349
+DataSet/FaceData/processed\elonmusk\elon8.png 37 22 161 182
+DataSet/FaceData/processed\elonmusk\elon6.png 369 76 623 407
+DataSet/FaceData/processed\elonmusk\elon10.png 200 26 400 288
+DataSet/FaceData/processed\elonmusk\elon12.png 256 58 456 319
+DataSet/FaceData/processed\elonmusk\elon15.png 357 169 794 764
+DataSet/FaceData/processed\elonmusk\elon3.png 85 17 178 130
+DataSet/FaceData/processed\Sontung\Sontung4.png 111 26 203 137
+DataSet/FaceData/processed\Sontung\Sontung7.png 314 153 723 686
+DataSet/FaceData/processed\Sontung\Sontung12.png 74 45 187 192
+DataSet/FaceData/processed\Sontung\Sontung8.png 63 11 142 103
+DataSet/FaceData/processed\Sontung\Sontung11.png 139 21 224 123
+DataSet/FaceData/processed\Sontung\Sontung5.png 102 32 185 129
+DataSet/FaceData/processed\Sontung\Sontung3.png 55 22 159 148
+DataSet/FaceData/processed\Sontung\Sontung13.png 86 3 185 123
+DataSet/FaceData/processed\Sontung\Sontung15.png 286 93 460 308
+DataSet/FaceData/processed\Sontung\Sontung1.png 88 6 179 112
+DataSet/FaceData/processed\Sontung\Sontung6.png 86 18 192 148
+DataSet/FaceData/processed\Sontung\Sontung10.png 244 81 621 538
+DataSet/FaceData/processed\Sontung\Sontung9.png 82 7 170 112
+DataSet/FaceData/processed\Sontung\Sontung2.png 66 20 157 131
+DataSet/FaceData/processed\Sontung\Sontung14.png 71 48 133 120
+DataSet/FaceData/processed\Sontung\Sontung16.png 375 56 659 418
+DataSet/FaceData/processed\Nam Anh\Nam Anh_33.0.png 66 242 287 527
+DataSet/FaceData/processed\Nam Anh\Nam Anh_34.0.png 64 242 298 533
+DataSet/FaceData/processed\Nam Anh\Nam Anh_35.0.png 122 251 345 560
+DataSet/FaceData/processed\Nam Anh\Nam Anh_36.0.png 104 243 339 566
+DataSet/FaceData/processed\Nam Anh\Nam Anh_37.0.png 65 230 304 556
+DataSet/FaceData/processed\Nam Anh\Nam Anh_39.0.png 0 252 221 555
+DataSet/FaceData/processed\Nam Anh\Nam Anh_40.0.png 12 233 257 557
+DataSet/FaceData/processed\Nam Anh\Nam Anh_41.0.png 26 222 274 556
+DataSet/FaceData/processed\Nam Anh\Nam Anh_42.0.png 55 219 267 472
+DataSet/FaceData/processed\Nam Anh\Nam Anh_43.0.png 56 224 271 478
+DataSet/FaceData/processed\Nam Anh\Nam Anh_60.0.png 34 226 265 472
+DataSet/FaceData/processed\Nam Anh\Nam Anh_61.0.png 30 251 241 489
+DataSet/FaceData/processed\Nam Anh\Nam Anh_63.0.png 1 235 227 533
+DataSet/FaceData/processed\Nam Anh\Nam Anh_64.0.png 48 220 284 509
+DataSet/FaceData/processed\Nam Anh\Nam Anh_65.0.png 62 234 298 523
+DataSet/FaceData/processed\Nam Anh\Nam Anh_66.0.png 121 226 368 531
+DataSet/FaceData/processed\Nam Anh\Nam Anh_67.0.png 89 225 333 536
+DataSet/FaceData/processed\Nam Anh\Nam Anh_68.0.png 30 224 275 540
+DataSet/FaceData/processed\Nam Anh\Nam Anh_69.0.png 30 221 278 541
+DataSet/FaceData/processed\Nam Anh\Nam Anh_70.0.png 26 235 288 596
+DataSet/FaceData/processed\Nam Anh\Nam Anh_71.0.png 17 284 285 633
+DataSet/FaceData/processed\Nam Anh\Nam Anh_73.0.png 19 225 285 592
+DataSet/FaceData/processed\Nam Anh\Nam Anh_75.0.png 0 279 220 620
+DataSet/FaceData/processed\Nam Anh\Nam Anh_76.0.png 14 333 279 640
+DataSet/FaceData/processed\Nam Anh\Nam Anh_77.0.png 72 287 333 640
+DataSet/FaceData/processed\Nam Anh\Nam Anh_78.0.png 97 251 342 587
+DataSet/FaceData/processed\Nam Anh\Nam Anh_79.0.png 80 233 321 566
+DataSet/FaceData/processed\Nam Anh\Nam Anh_80.0.png 97 239 335 585
+DataSet/FaceData/processed\Nam Anh\Nam Anh_81.0.png 39 241 284 558
+DataSet/FaceData/processed\GiaBao\GiaBao_14.0.png 188 228 368 581
+DataSet/FaceData/processed\Bao Ngoc\Bao Ngoc_6.0.png 0 375 307 640
+DataSet/FaceData/processed\Khanh\Khanh_18.0.png
+DataSet/FaceData/processed\Cuong\Cuong_15.0.png
+DataSet/FaceData/processed\Cuong\Cuong_23.0.png 0 196 310 606
+DataSet/FaceData/processed\Cuong\Cuong_24.0.png 0 194 309 598
+DataSet/FaceData/processed\Cuong\Cuong_25.0.png 9 190 314 587
+DataSet/FaceData/processed\Cuong\Cuong_26.0.png 0 184 282 588
+DataSet/FaceData/processed\Cuong\Cuong_27.0.png 47 188 328 573
+DataSet/FaceData/processed\Cuong\Cuong_28.0.png 36 179 320 557
+DataSet/FaceData/processed\Cuong\Cuong_30.0.png 0 164 287 530
+DataSet/FaceData/processed\Cuong\Cuong_31.0.png 47 178 321 549
+DataSet/FaceData/processed\Cuong\Cuong_32.0.png 13 212 325 635
+DataSet/FaceData/processed\Cuong\Cuong_33.0.png 6 232 325 640
+DataSet/FaceData/processed\Cuong\Cuong_35.0.png 81 195 363 599
+DataSet/FaceData/processed\Cuong\Cuong_36.0.png 49 187 334 593
+DataSet/FaceData/processed\Cuong\Cuong_38.0.png 0 180 283 500
+DataSet/FaceData/processed\Cuong\Cuong_41.0.png 7 172 304 521
+DataSet/FaceData/processed\Cuong\Cuong_43.0.png 0 202 288 601
+DataSet/FaceData/processed\Cuong\Cuong_44.0.png 0 187 297 579
+DataSet/FaceData/processed\Cuong\Cuong_45.0.png 4 187 296 567
+DataSet/FaceData/processed\Cuong\Cuong_46.0.png 26 188 307 564
+DataSet/FaceData/processed\Cuong\Cuong_47.0.png 16 190 305 562
+DataSet/FaceData/processed\Cuong\Cuong_48.0.png 0 186 296 580
+DataSet/FaceData/processed\Tuong\Tuong_15.0.png
+DataSet/FaceData/processed\Tuong\Tuong_16.0.png
+DataSet/FaceData/processed\Tuong\Tuong_4.0.png 107 125 183 206
+DataSet/FaceData/processed\Tuong\Tuong_8.0.png
